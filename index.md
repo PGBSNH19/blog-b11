@@ -8,9 +8,9 @@ Lektion:
 
 [03: beskrivning](03.md)
 
-04: beskrivning
+[04: beskrivning](04.md)
 
-05: beskrivning
+[05: beskrivning](05.md)
 
 06: beskrivning
 
